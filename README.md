@@ -1,0 +1,1 @@
+This is test README file for "censorify" npm package.
